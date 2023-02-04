@@ -4,8 +4,6 @@
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
-
 The dataset consists out of tripdata gathered by an bikesharing serverice which has rental bikes all over the city. 
 In total it consisted of  183.412 rows and 17 columns with  mainly string an float and some integer values.
 Since the dataset was quite clean the wrangling efforts where overseeable. 
@@ -19,7 +17,6 @@ Since the dataset was quite clean the wrangling efforts where overseeable.
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
 
 In[9] Since there where some outliers far beyond the mean Travel time all outliers above 2.5 times duration-sec mean's where removed to make a clear visualization is show in the  4th image in de plot.
 	Most trips done with the rented bikes have aduration between 100 and 1000 seconds
@@ -47,7 +44,6 @@ In[27]Under the top stations there are no abvious difference in use between male
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
 In[21] The visualisation shows the most bussy ours on average split up over the customer types. You can see that the share of customer compared to subscribers stay prettymuch the same.
 In[26] The heatmap shows during which day of the week during with hour the most rides take place.
 In[25] In this visualisation the customer are split up in 6 groups. We see Male who are subscriber to the service make the most use of the service. (over 60%)
