@@ -1,6 +1,6 @@
 # (FordGoBike Tripdate Exploration)
 ## by (Torben Mulitze)
-
+https://htmlpreview.github.io/?https://github.com/SantaCornitus/BikeSharingAnalysis/blob/main/Exploration_and_Analysis.html
 
 ## Dataset
 
